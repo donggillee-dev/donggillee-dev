@@ -1,6 +1,6 @@
-### 이동길 👋
+### Hi there 👋
 
-## 1일 1Commit (
+### ***1일 1Commit*** (Since 2021.01.18)
 <!--
 **donggillee-dev/donggillee-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
