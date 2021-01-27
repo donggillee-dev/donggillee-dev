@@ -1,8 +1,9 @@
-### Hi there 👋
+### Lee Dong Gil 👋
 
-### ***1일 1Commit*** (Since 2021.01.18)
+### My Goal
+- ***1Day 1Commit*** (Since 2021.01.18)
 
-### 주요 Repo
+### Key Repo
 
 - [ALGO](https://github.com/donggillee-dev/ALGO)
   - 백준, Programmers 등의 알고리즘 문제풀이 Repo
