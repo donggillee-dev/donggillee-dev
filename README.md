@@ -6,7 +6,7 @@
 
 ### Key Repo
 
-- [ALGO](https://github.com/donggillee-dev/Java_Algorithm)
+- [Java_Algorithm](https://github.com/donggillee-dev/Java_Algorithm)
   - Programmers, SWEA 문제를 Java로 푼 코드들
 -------------------------------------------------
 
