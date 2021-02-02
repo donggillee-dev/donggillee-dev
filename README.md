@@ -6,8 +6,8 @@
 
 ### Key Repo
 
-- [ALGO](https://github.com/donggillee-dev/ALGO)
-  - 백준, Programmers 등의 알고리즘 문제풀이 Repo
+- [ALGO](https://github.com/donggillee-dev/Java_Algorithm)
+  - Programmers, SWEA 문제를 Java로 푼 코드들
 -------------------------------------------------
 
 
