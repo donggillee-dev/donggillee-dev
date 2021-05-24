@@ -13,7 +13,7 @@
   - Java로 푸 문제들을 C++로 변환해보자!
 
 ### Algo ChkList
-- [ ] 스택, 큐, Brute-Force
+- [x] 스택, 큐, Brute-Force
 - [x] 정렬, 이분 탐색
 - [ ] 구현, 그리디
 - [ ] BFS, DFS
