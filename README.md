@@ -30,7 +30,7 @@
 - [ ] 최대 유량
 -------------------------------------------------
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=woongseob12)](https://solved.ac/qye5856)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qye5856)](https://solved.ac/qye5856)
 ![Giriii's github stats](https://github-readme-stats.vercel.app/api?username=donggillee-dev&show_icons=true)
 
 <!--
