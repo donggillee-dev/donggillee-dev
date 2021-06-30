@@ -18,7 +18,7 @@
 - [ ] BFS, DFS
 - [x] 문자열, 분할 정복
 - [ ] 백트레킹, LCS
-- [ ] 분리 집합, MST ( Kruskal, Prim )
+- [x] 분리 집합, MST ( Kruskal, Prim )
 - [ ] DP, 비트마스킹
 - [ ] 투 포인터, 슬라이딩 윈도우
 - [ ] KMP, 누적합
