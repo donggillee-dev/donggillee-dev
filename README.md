@@ -12,13 +12,13 @@
   - Java로 푸 문제들을 C++로 변환해보자!
 
 ### Algo ChkList
-- [x] 스택, 큐, Brute-Force
-- [x] 정렬, 이분 탐색
+- [ ] 스택, 큐, Brute-Force
+- [ ] 정렬, 이분 탐색
 - [ ] 구현, 그리디
 - [ ] BFS, DFS
-- [x] 문자열, 분할 정복
+- [ ] 문자열, 분할 정복
 - [ ] 백트레킹, LCS
-- [x] 분리 집합, MST ( Kruskal, Prim )
+- [ ] 분리 집합, MST ( Kruskal, Prim )
 - [ ] DP, 비트마스킹
 - [ ] 투 포인터, 슬라이딩 윈도우
 - [ ] KMP, 누적합
