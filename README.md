@@ -38,9 +38,13 @@
 - [ ] 세그먼트 트리, 위상 정렬
 - [ ] 트라이
 - [ ] 최대 유량
--------------------------------------------------
+
+## 🏆 Solved.ac Tier
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qye5856)](https://solved.ac/qye5856)
+
+## 🧑‍💻 Github Status
+
 ![Giriii's github stats](https://github-readme-stats.vercel.app/api?username=donggillee-dev&show_icons=true)
 
 <!--
