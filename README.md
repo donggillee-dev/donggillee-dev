@@ -1,9 +1,15 @@
 ### Lee Dong Gil 👋
 -------------------------------------------------
-### My Goal
+## 🌱 About Me
+
+|**활동**|**기간**|**활동내용**|
+|:---:|:---:|:---:|
+|삼성SW청년아카데미 SSAFY 5기|2021.01~|SSAFY 5기 Java반|
+
+### 🎯 My Goal
 - ***1Day 1Commit*** (2021.01.18 ~)
 
-### Key Repo
+### 🔑 Key Repo
 
 - [Java_Algorithm](https://github.com/donggillee-dev/Java_Algorithm)
   - Programmers, SWEA 등의 문제를 Java로 푼 코드들
@@ -11,7 +17,7 @@
 - [C++_Algorithm](https://github.com/donggillee-dev/Cpp_Algorithm)
   - Java로 푸 문제들을 C++로 변환해보자!
 
-### Algo ChkList
+### 🏋️ Algo ChkList
 - [x] 스택, 큐, Brute-Force
 - [ ] 정렬, 이분 탐색
 - [ ] 구현, 그리디
