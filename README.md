@@ -25,7 +25,7 @@
 - [x] 스택, 큐, Brute-Force
 - [ ] 정렬, 이분 탐색
 - [x] 구현, 그리디
-- [ ] BFS, DFS
+- [x] BFS, DFS
 - [ ] 문자열, 분할 정복
 - [ ] 백트레킹, LCS
 - [ ] 분리 집합, MST ( Kruskal, Prim )
