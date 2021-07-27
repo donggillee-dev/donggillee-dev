@@ -41,7 +41,7 @@
 
 ## 🏆 Solved.ac Tier
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qye5856)](https://solved.ac/qye5856)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=qye5856)](https://solved.ac/qye5856)
 
 ## 🧑‍💻 Github Status
 
