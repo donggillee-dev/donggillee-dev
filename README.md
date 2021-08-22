@@ -40,7 +40,7 @@
 - [] 벨만-포드, TSP
 - [] LCA, LIS
 - [] 세그먼트 트리, 위상 정렬
-
+ 
 ## 🏆 Solved.ac Tier
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=qye5856)](https://solved.ac/qye5856)
