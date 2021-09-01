@@ -25,10 +25,13 @@
   - Java로 푸 문제들을 C++로 변환해보자!
 
 - [Algorithm_Study](https://github.com/EFS-Escape-From-SSAFY)
-
+  - SSAFY 2학기 알고리즘 + CS 스터디
+  
 - [HappyHouse](https://github.com/SSAFY-Project)
+  - SSAFY 1학기 관통 프로젝트 부동산 관리 시스템(2등)
 
 - [TeamGu](https://github.com/team-gu)
+  - SSAFY 2학기 공통 프로젝트 팀구 서비스(2등)
 
 ## 🏋️ Algo ChkList
 
