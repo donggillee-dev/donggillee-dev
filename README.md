@@ -28,10 +28,10 @@
   - SSAFY 2학기 알고리즘 + CS 스터디
   
 - [HappyHouse](https://github.com/SSAFY-Project)
-  - SSAFY 1학기 관통 프로젝트 부동산 관리 시스템(2등)
+  - SSAFY 1학기 관통 프로젝트 부동산 관리 시스템(우수상)
 
 - [TeamGu](https://github.com/team-gu)
-  - SSAFY 2학기 공통 프로젝트 팀구 서비스(2등)
+  - SSAFY 2학기 공통 프로젝트 팀구 서비스(우수상)
 
 ## 🏋️ Algo ChkList
 
