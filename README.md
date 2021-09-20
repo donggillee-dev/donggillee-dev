@@ -31,7 +31,7 @@
   - SSAFY 1학기 관통 프로젝트 부동산 관리 시스템(우수상)
 
 - [TeamGu](https://github.com/team-gu)
-  - SSAFY 2학기 공통 프로젝트 팀구 서비스(우수상)
+  - SSAFY 2학기 공통 프로젝트 팀구 서비스(우수상), UCC(우수상)
 
 ## 🏋️ Algo ChkList
 
