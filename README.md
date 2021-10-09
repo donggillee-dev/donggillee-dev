@@ -33,6 +33,9 @@
 - [TeamGu](https://github.com/team-gu)
   - SSAFY 2학기 공통 프로젝트 팀구 서비스(우수상), UCC(우수상)
 
+- [TheOne](https://github.com/SOSCON-TheONE/ONE-vscode)
+  - ONE 개발자를 위한 VSCode-Extension(최우수상)
+
 ## 🏋️ Algo ChkList
 
 - [ ] 스택, 큐, Brute-Force
