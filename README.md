@@ -20,9 +20,6 @@
 
 - [Java_Algorithm](https://github.com/donggillee-dev/Java_Algorithm)
   - Programmers, SWEA 등의 문제를 Java로 푼 코드들
-  
-- [C++_Algorithm](https://github.com/donggillee-dev/Cpp_Algorithm)
-  - Java로 푸 문제들을 C++로 변환해보자!
 
 - [Algorithm_Study](https://github.com/EFS-Escape-From-SSAFY)
   - SSAFY 2학기 알고리즘 + CS 스터디
